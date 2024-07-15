@@ -15,7 +15,6 @@ MERN Stack project that helps users in staying updated with current affairs, ent
 - **Features:**
   - Api calls
   - Responsive design
-  - 
 
 - **Technologies Used:**
   - MongoDB
